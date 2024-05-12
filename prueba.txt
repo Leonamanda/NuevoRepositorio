@@ -1,0 +1,7 @@
+Se recomienda crear un documento “ReadMe” porque ahí guardaremos información correspondiente a nuestro repositorio, lo que facilitará el trabajo de aquellas otras personas que se integren en el proyecto.
+Cuando seleccionas que tu repositorio sea público, permites que todo aquel que disponga de internet pueda ver su contenido y clonarlo (descargar una copia) en sus propios sistemas , lo cual puede ser una excelente manera de compartir tu trabajo con la comunidad y recibir contribuciones externas, pero también requiere una gestión cuidadosa para mantener la seguridad y la calidad del código. Por el contrario, si el repositorio es privado, podrás elegir quién puede verlo y clonarlo.
+GitHub dispone de un mecanismo para ignorar archivos que se generan durante el proceso de desarrollo o contienen información sensible que no debería compartirse públicamente a través de la opción: Add gitignore. 
+
+Al escoger el tipo de licencia, dejamos claro a aquellos que visualicen el código, hasta donde está autorizado que utilicen el código.
+
+Una vez finalizado todos estos pasos se selecciona el botón de Create Repository , y ya tendremos el repositorio creado.
